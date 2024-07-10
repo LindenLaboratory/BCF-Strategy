@@ -1,2 +1,2 @@
 # BCF Strategy
-A program designed to automate the collection, cleaning and compilation about market data in order to create a strategy for BCF.
+A program designed to automate the collection, cleaning and compilation about market data in order to create a strategy for BCF, the Black Coral Fund, a fund I am running myself. The program creates .csv files ready to be imported into Google Sheets using the [Code.gs](Code.gs) apps script program. These can then be analysed to find a pattern for the best deltas in which to buy and sell options.
